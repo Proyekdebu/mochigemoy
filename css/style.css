@@ -40,10 +40,10 @@ body {
 }
 
 .navbar .navbar-logo {
-  font-size: 2rem;
-  font-weight: 700;
+  font-family: "Grey Qo", cursive;
+  font-size: 3rem;
+  font-weight: bold;
   color: #fff;
-  font-style: italic;
 }
 
 .navbar .navbar-logo span {
@@ -419,6 +419,10 @@ footer .alamat {
   }
   .menu .row .menu-card {
     width: 100%;
+  }
+  .menu .row .menu-card .menu-card-price {
+    font-weight: bold;
+    font-size: 2rem;
   }
   /* Menu section */
 
